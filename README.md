@@ -4,8 +4,8 @@ Exemple: Calculer un montant TTC à partir d'un montant HT et un taux de TVA en 
 exo1: simple application client/serveur CORBA. L'objet hébergé par le serveur est constitué de deux méthodes (incrementer et decrementer) définies dans l'interface IDL calcul (fichier server.idl). 
 
 
-# TP CORBA
-# Realisé par : Mahdi Ben Zinouba
+# Rapport
+Realisé par : Mahdi Ben Zinouba
 1. Les interactions entre le serveur et l’OA: Le serveur se charge de
 a. La création des servants
 b. L’enregistrement des servants au niveau de l’OA
